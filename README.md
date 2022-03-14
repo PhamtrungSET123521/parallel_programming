@@ -32,6 +32,6 @@ Run below command:
 ```bash
 python plot_histogram.py
 ```
-**Note**: You should change path in `plot_histogram` before executing it.
+**Note**: You should change path in `plot_histogram.py` before executing it.
 
 
