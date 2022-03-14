@@ -8,7 +8,7 @@
 2. Successfully install OpenCV for C++
 
 ## User manual
-1. Run parallel program
+### 1. Run parallel program
 If you want to run parallel program, you should follow below steps:
 
 ```bash
@@ -17,7 +17,7 @@ sh run_omp.sh
 
 You can edit bash file for change number of cpus.
 
-2. Run sequential program
+### 2. Run sequential program
 If you want to run sequential program, you should follow below steps:
 
 ```bash
@@ -26,7 +26,7 @@ sh run_sequential.sh
 
 You can edit bash file for change number of cpus.
 
-3. Plot histogram
+### 3. Plot histogram
 You can visualize histogram of image if you wish:
 Run below command:
 ```bash
